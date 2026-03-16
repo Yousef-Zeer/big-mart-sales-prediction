@@ -32,9 +32,13 @@ Cleaned the dataset by handling missing values using group-wise imputation strat
 
 <img width="989" height="690" alt="Item outlet sales" src="https://github.com/user-attachments/assets/a23a05ef-5665-438f-8e35-c0bd6d9922ab" />
 
+
 - Distribution of Item_Outlet_Sales is right-skewed, showing that the majority of products have relatively low sales. While there a numerous outliers on the right as boxplot shows , which represent high-performing products that significantly drive up the average sales.
 
 ### HeatMap Analysis 
 <img width="932" height="731" alt="download" src="https://github.com/user-attachments/assets/dc25f0e6-ce66-4de4-8a26-69cbe6786bfb" />
 
-- Correlation analysis revealed that Item MRP has a moderate positive impact on Outlet Sales (0.57). This suggests that pricing strategy is a key driver of total revenue. Interestingly, other factors such as Item Visibility and Item Weight showed negligible correlation, implying they have a limited direct impact on sales performance in this dataset.
+
+- Correlation analysis revealed that Item MRP has a moderate positive impact on Outlet Sales (0.57). This suggests that pricing strategy is a key driver of total revenue.
+
+
